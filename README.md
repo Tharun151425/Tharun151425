@@ -61,6 +61,7 @@
 ## 📬 **How to Reach Me**
 
 - 📧 Email: [tharun151425@gmail.com](mailto:tharun151425@gmail.com)
+- 🌐 LinkedIn: [Tharunkrishna M](https://www.linkedin.com/in/tharunkrishna-m/)
 - 🌐 Leetcode: [tharun151425](https://leetcode.com/u/tharun151425/)
  <!--🐦 Twitter: [@TharunM_Dev](https://twitter.com/TharunM_Dev)-->
 
