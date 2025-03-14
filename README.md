@@ -9,7 +9,7 @@
 - 🧑‍💻 Building **AI/ML problem-solving applications** <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 - 💼 Experienced in **Python**, **ML frameworks**, **Full Stack Development**
 - 🌱 Continuously expanding knowledge in **AI**, **ML**, and **Web Dev**
-<!-- - 🎓 Certified in **Machine Learning** and **Neural Networks** -->
+- 🎓 Certified in **Machine Learning** and **Neural Networks**
 
 ---
 
@@ -47,13 +47,18 @@
 ---
 
 ## 📊 GitHub & LeetCode Stats
+</br> 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun151425?theme=catppuccinMocha&font=Montserrat&ext=heatmap)
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun151425&show_icons=true&hide_border=false&theme=dark&title_color=9C27B0&icon_color=9C27B0&text_color=FFFFFF&count_private=true&include_all_commits=true" style="height: 200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&show_icons=true&hide_border=false&theme=dark&title_color=9C27B0&text_color=FFFFFF&count_private=true&include_all_commits=true&layout=compact" style="height: 200px" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0 10px 0">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharun151425&show_icons=true&hide_border=false&theme=catppuccin_mocha&title_color=cba6f7&icon_color=cba6f7&text_color=D9E0EE&count_private=true&include_all_commits=true" style="height: 200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&show_icons=true&hide_border=false&theme=catppuccin_mocha&title_color=cba6f7&text_color=D9E0EE&count_private=true&include_all_commits=true&layout=compact" style="height: 200px" />
 </div>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Tharun151425&theme=monokai&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+</p>
 
 ---
 
