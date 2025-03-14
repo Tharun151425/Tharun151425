@@ -11,9 +11,6 @@
   
 - 🌱 I’m constantly learning new technologies and looking for ways to improve my skills in **AI**, **ML**, and **Web Dev**.
   
-
-![](https://leetcard.jacoblin.cool/tharun151425?theme=unicorn&extension=activity)
-
 ---
 
 ## 💻 **Technologies I Work With**
@@ -33,6 +30,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tharun151425&theme=onedark) -->
+## Current LeetCode Stats 📊
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun151425?theme=catppuccinMocha&font=Montserrat&ext=heatmap)
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Tharun151425&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 ## 🏆 **Notable Projects**
 
 | **Project Name**             | **Description**                                          | **Status**    | **Link**                                  |
