@@ -51,10 +51,9 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun151425?theme=catppuccinMocha&font=Montserrat&ext=heatmap)
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0 10px 0; padding: 10px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun151425&show_icons=true&hide_border=false&theme=catppuccin_mocha&title_color=cba6f7&icon_color=cba6f7&text_color=D9E0EE&count_private=true&include_all_commits=true" style="height: 200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&show_icons=true&hide_border=false&theme=catppuccin_mocha&title_color=cba6f7&text_color=D9E0EE&count_private=true&include_all_commits=true&layout=compact" style="height: 200px" />
-</div>
+![Tharun151425's Stats](https://github-readme-stats.vercel.app/api?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
+
+![Tharun151425's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 </br>
 <p align="center" >
   <img src="https://github-trophies.vercel.app/?username=Tharun151425&theme=monokai&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
