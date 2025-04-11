@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Tharun M
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Tharunkrishna M
 
 <p>Passionate software developer specializing in AI/ML solutions and Web Development. I build applications that solve real-world problems using modern technologies and data-driven approaches.</p>
 
@@ -46,32 +46,62 @@
 
 ---
 
+# 🧠 My Projects & Contributions
+
+Welcome! Here's a curated list of my projects categorized by domain. Most are built with Python, React, and modern tech stacks, combining machine learning, system tools, and intuitive UI design.
+
+---
+
+## 🧪 Machine Learning & Data Science
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| [SmartBite - Calorie Detection](https://github.com/Tharun151425/SmartBite-Calorie_Detection) | ML-powered health assistant to track calories and water intake via image input. | Python, Streamlit, CV, Pandas | ✅ [Live Site](https://smartbiteai.streamlit.app/) |
+| [LabelLens - Label Detection](https://github.com/Tharun151425/LabelLens-Label_Detection) | Real-time label inspection app using YOLOv5 for quality check of product labels. | Python, PyTorch, OpenCV, customtkinter | ✅ Completed |
+| [KMeans Image Compressor](https://github.com/Tharun151425/KMeans_Image_Compressor) | Compresses images using KMeans clustering and features a full web frontend. | Python, ML, React, Tailwind, Express | 🚧 In Progress |
+| [DataViz - Data Analysis Tool](https://github.com/Tharun151425/DataViz--Data_Analysis_Visualisation_Tool) | GUI tool to analyze and visualize .csv data interactively. | Python, Pandas, Matplotlib | ✅ Completed |
+
+---
+
+## 🌐 Web Development
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| [Hackathon Website (Contributor)](https://github.com/Tharun151425/hackathon-website) | Contributed frontend for ACM's official hackathon site. | React, Vite, Tailwind CSS | 🤝 Contribution<br/> [Live Site](https://www.techtankrvce.com/)|
+| [Memory Game](https://github.com/Tharun151425/MemoryGame) | Simple color-based memory game using browser tech. | HTML, CSS, JavaScript | ✅ [Live Site](https://tharun-memorymatch.vercel.app/) |
+| [To-Do List App](https://github.com/Tharun151425/TO_DO_LIST) | Task manager with sub-list support and smooth UI/UX. | React, Vite, Tailwind CSS | ✅ [Live Site](https://to-do-list-tharun.vercel.app/) |
+| [Event Planner](https://github.com/Tharun151425/event_planner) | Basic event planning app for scheduling & tracking. | HTML, CSS, JavaScript | ✅ Completed |
+
+---
+
+## ⚙️ System Tools
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| [OS Performance Monitoring System](https://github.com/Tharun151425/OS-Performance-Monitoring-System) | Monitors system performance with CPU, memory & disk tracking. | Python, psutil, Tkinter | ✅ Completed |
+
+---
+
+## 💼 Contributions
+
+- 👨‍💻 **Frontend Developer** — [Hackathon Website](https://github.com/Tharun151425/hackathon-website) for ACM using React + Tailwind
+- 🤝 **Forked Contributor** — [Event Planner](https://github.com/Tharun151425/event_planner)
+
+---
+
 ## 📊 GitHub & LeetCode Stats
 </br> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun151425?theme=catppuccinMocha&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun151425?theme=catppuccinMocha&font=Montserrat)
 
-![Tharun151425's Stats](https://github-readme-stats.vercel.app/api?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-
-![Tharun151425's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![Tharun151425's Stats](https://github-readme-stats.vercel.app/api?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Tharun151425's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharun151425&theme=nightowl&hide_border=true)<br/>
+![Tharun151425's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </br>
 <p align="center" >
   <img src="https://github-trophies.vercel.app/?username=Tharun151425&theme=monokai&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
----
-
-## 🚀 Projects
-
-| **Project Name** | **Description** | **Status** | **Link** |
-|------------------|-----------------|------------|----------|
-| **DataViz** | A GUI tool for seamless data analysis and visualization from CSV files | Completed | [Repository](https://github.com/Tharun151425/DataViz--Data_Analysis_Visualisation_Tool) |
-| **LabelLens** | A collaborative project for label detection and recognition in images | Completed | [Repository](https://github.com/Tharun151425/LabelLens-Label_Detection) |
-| **SmartBite-Calorie_Detection** | A Python-based GUI tool for calorie and water intake tracking using machine learning | In Progress | [Repository](https://github.com/Tharun151425/SmartBite-Calorie_Detection) |
-<!--| | | | |
-| | | | |-->
-
----
 
 ## 🧠 Machine Learning Skills
 
