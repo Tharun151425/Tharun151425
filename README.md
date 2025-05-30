@@ -51,6 +51,13 @@
 Welcome! Here's a curated list of my projects categorized by domain. Most are built with Python, React, and modern tech stacks, combining machine learning, system tools, and intuitive UI design.
 
 ---
+## 🤖 Web Development + AI/ML
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| [🌱 CropSmart - Intelligent Crop Recommendation System](https://github.com/Tharun151425/Crop_recomender_system) | Full-stack AI-powered platform for crop recommendation, environmental monitoring, and smart farming assistance. | React, TailwindCSS, Firebase, FastAPI, TensorFlow, MongoDB, Google Gemini API | 🚀 In Progress |
+| [KMeans Image Compressor](https://github.com/Tharun151425/KMeans_Image_Compressor) | Compresses images using KMeans clustering and features a full web frontend. | Python, ML, React, Tailwind, Express | 🚧 In Progress |
+
 
 ## 🧪 Machine Learning & Data Science
 
@@ -58,7 +65,6 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 |--------|-------------|------------|--------|
 | [SmartBite - Calorie Detection](https://github.com/Tharun151425/SmartBite-Calorie_Detection) | ML-powered health assistant to track calories and water intake via image input. | Python, Streamlit, CV, Pandas | ✅ [Live Site](https://smartbiteai.streamlit.app/) |
 | [LabelLens - Label Detection](https://github.com/Tharun151425/LabelLens-Label_Detection) | Real-time label inspection app using YOLOv5 for quality check of product labels. | Python, PyTorch, OpenCV, customtkinter | ✅ Completed |
-| [KMeans Image Compressor](https://github.com/Tharun151425/KMeans_Image_Compressor) | Compresses images using KMeans clustering and features a full web frontend. | Python, ML, React, Tailwind, Express | 🚧 In Progress |
 | [DataViz - Data Analysis Tool](https://github.com/Tharun151425/DataViz--Data_Analysis_Visualisation_Tool) | GUI tool to analyze and visualize .csv data interactively. | Python, Pandas, Matplotlib | ✅ Completed |
 
 ---
@@ -81,11 +87,15 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | [OS Performance Monitoring System](https://github.com/Tharun151425/OS-Performance-Monitoring-System) | Monitors system performance with CPU, memory & disk tracking. | Python, psutil, Tkinter | ✅ Completed |
 
 ---
+## 🤝 Contributions
 
-## 💼 Contributions
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| [🚀 TechTank Hackathon Site](https://github.com/priyanshrd/hackathon-website) | Website for TechTank—Shark Tank-style hackathon. Designed & developed high-conversion UI/UX. | React + Vite, TailwindCSS, Node.js, Express, MongoDB, JSX | [Live 🌍](https://www.techtankrvce.com/) |
+| [🌐 ACM RVCE Official Website](https://github.com/CubeStar1/acm-rvce-frontend) | Official ACM chapter site. Built gallery, team, contact pages and reusable UI components as frontend dev. | Next.js 15, TailwindCSS, Node.js, Express, MongoDB, Shadcn UI, TSX | [Live 🌍](https://acm-website-components-avinash.vercel.app/) |
+| [🌾 Bharath Harvest](https://github.com/SRNI-2005/Bharath-Harvest) | Full-stack agri-platform enabling farmers to trade crops, access market insights via an XGBoost ML model, and chat with a Gemini-powered AI bot. | React + Vite, TailwindCSS, Node.js, Express, Firebase, XGBoost, JSX | 🚀 In Progress |
+| [🎉 Event Planner](https://github.com/Tharun151425/event_planner) | Sleek event planning site showcasing portfolio, gallery, client reviews, and more—designed with elegant UI/UX. | React + Vite, TailwindCSS | ✅ Completed |
 
-- 👨‍💻 **Frontend Developer** — [Hackathon Website](https://github.com/Tharun151425/hackathon-website) for ACM using React + Tailwind
-- 🤝 **Forked Contributor** — [Event Planner](https://github.com/Tharun151425/event_planner)
 
 ---
 
