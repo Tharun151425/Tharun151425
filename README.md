@@ -76,7 +76,7 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | [Hackathon Website (Contributor)](https://github.com/Tharun151425/hackathon-website) | Contributed frontend for ACM's official hackathon site. | React, Vite, Tailwind CSS | 🤝 Contribution<br/> [Live Site](https://www.techtankrvce.com/)|
 | [Memory Game](https://github.com/Tharun151425/MemoryGame) | Simple color-based memory game using browser tech. | HTML, CSS, JavaScript | ✅ [Live Site](https://tharun-memorymatch.vercel.app/) |
 | [To-Do List App](https://github.com/Tharun151425/TO_DO_LIST) | Task manager with sub-list support and smooth UI/UX. | React, Vite, Tailwind CSS | ✅ [Live Site](https://to-do-list-tharun.vercel.app/) |
-| [Event Planner](https://github.com/Tharun151425/event_planner) | Basic event planning app for scheduling & tracking. | HTML, CSS, JavaScript | ✅ Completed |
+| [Event Planner](https://github.com/Tharun151425/event_planner) | Basic event planning app for scheduling & tracking. | HTML, CSS, JavaScript | ✅ [Live Site](https://tharunm-event-planner.vercel.app/) |
 
 ---
 
@@ -85,6 +85,8 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
 | [OS Performance Monitoring System](https://github.com/Tharun151425/OS-Performance-Monitoring-System) | Monitors system performance with CPU, memory & disk tracking. | Python, psutil, Tkinter | ✅ Completed |
+| [System Optimisation Toolkit](https://github.com/Tharun151425/OS-Performance-Monitoring-System/tree/v3) | Visualizes memory leaks and disk usage in real time, letting users identify and clean issues by terminating processes or deleting files.
+ | Python, psutil, CustomTkinter | ✅ Completed |
 
 ---
 ## 🤝 Contributions
@@ -93,8 +95,8 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 |--------|-------------|------------|--------|
 | [🚀 TechTank Hackathon Site](https://github.com/priyanshrd/hackathon-website) | Website for TechTank—Shark Tank-style hackathon. Designed & developed high-conversion UI/UX. | React + Vite, TailwindCSS, Node.js, Express, MongoDB, JSX | [Live 🌍](https://www.techtankrvce.com/) |
 | [🌐 ACM RVCE Official Website](https://github.com/CubeStar1/acm-rvce-frontend) | Official ACM chapter site. Built gallery, team, contact pages and reusable UI components as frontend dev. | Next.js 15, TailwindCSS, Node.js, Express, MongoDB, Shadcn UI, TSX | [Live 🌍](https://acm-website-components-avinash.vercel.app/) |
-| [🌾 Bharath Harvest](https://github.com/SRNI-2005/Bharath-Harvest) | Full-stack agri-platform enabling farmers to trade crops, access market insights via an XGBoost ML model, and chat with a Gemini-powered AI bot. | React + Vite, TailwindCSS, Node.js, Express, Firebase, XGBoost, JSX | 🚀 In Progress |
-| [🎉 Event Planner](https://github.com/Tharun151425/event_planner) | Sleek event planning site showcasing portfolio, gallery, client reviews, and more—designed with elegant UI/UX. | React + Vite, TailwindCSS | ✅ Completed |
+| [🌾 Bharath Harvest](https://github.com/SRNI-2005/Bharath-Harvest) | Full-stack agri-platform enabling farmers to trade crops, access market insights via an XGBoost ML model, and chat with a Gemini-powered AI bot. | React + Vite, TailwindCSS, Node.js, Express, Firebase, XGBoost, JSX | ✅ Completed |
+| [🎉 Event Planner](https://github.com/Tharun151425/event_planner) | Sleek event planning site showcasing portfolio, gallery, client reviews, and more—designed with elegant UI/UX. | React + Vite, TailwindCSS | ✅ [Live Site](https://tharunm-event-planner.vercel.app/) |
 
 
 ---
