@@ -9,7 +9,6 @@
 - 🧑‍💻 Building **AI/ML problem-solving applications** <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 - 💼 Experienced in **Python**, **ML frameworks**, **Full Stack Development**
 - 🌱 Continuously expanding knowledge in **AI**, **ML**, and **Web Dev**
-- 🎓 Certified in **Machine Learning** and **Neural Networks**
 
 ---
 
