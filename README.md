@@ -58,7 +58,6 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | [🌱 CropSmart - Intelligent Crop Recommendation System](https://github.com/Tharun151425/Crop_recomender_system) | Full-stack AI-powered platform for crop recommendation, environmental monitoring, and smart farming assistance. | React, TailwindCSS, Firebase, FastAPI, TensorFlow, MongoDB, Google Gemini API | 🚀 In Progress |
 | [KMeans Image Compressor](https://github.com/Tharun151425/KMeans_Image_Compressor) | Compresses images using KMeans clustering and features a full web frontend. | Python, ML, React, Tailwind, Express | 🚧 In Progress |
 
-
 ## 🧪 Machine Learning & Data Science
 
 | Project | Description | Tech Stack | Status |
@@ -77,7 +76,7 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | [Memory Game](https://github.com/Tharun151425/MemoryGame) | Simple color-based memory game using browser tech. | HTML, CSS, JavaScript | ✅ [Live Site](https://tharun-memorymatch.vercel.app/) |
 | [To-Do List App](https://github.com/Tharun151425/TO_DO_LIST) | Task manager with sub-list support and smooth UI/UX. | React, Vite, Tailwind CSS | ✅ [Live Site](https://to-do-list-tharun.vercel.app/) |
 | [Event Planner](https://github.com/Tharun151425/event_planner) | Basic event planning app for scheduling & tracking. | HTML, CSS, JavaScript | ✅ [Live Site](https://tharunm-event-planner.vercel.app/) |
-
+| [🪴 Paradise Nursery - e-Plant Shopping Website](https://tharun151425.github.io/e-plantShopping/) | A modern, responsive plant shopping site with sleek UI and cart functionality. Shop indoor & outdoor plants with ease. | React.js, Redux Toolkit, Vite, Tailwind CSS | ✅ [Live Site](https://tharun151425.github.io/e-plantShopping/) |
 ---
 
 ## ⚙️ System Tools
@@ -85,8 +84,7 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
 | [OS Performance Monitoring System](https://github.com/Tharun151425/OS-Performance-Monitoring-System) | Monitors system performance with CPU, memory & disk tracking. | Python, psutil, Tkinter | ✅ Completed |
-| [System Optimisation Toolkit](https://github.com/Tharun151425/OS-Performance-Monitoring-System/tree/v3) | Visualizes memory leaks and disk usage in real time, letting users identify and clean issues by terminating processes or deleting files.
- | Python, psutil, CustomTkinter | ✅ Completed |
+| [System Optimisation Toolkit](https://github.com/Tharun151425/OS-Performance-Monitoring-System/tree/v3) | Visualizes memory leaks and disk usage in real time, letting users identify and clean issues by terminating processes or deleting files | Python, psutil, CustomTkinter | ✅ Completed |
 
 ---
 ## 🤝 Contributions
@@ -94,10 +92,10 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
 | [🚀 TechTank Hackathon Site](https://github.com/priyanshrd/hackathon-website) | Website for TechTank—Shark Tank-style hackathon. Designed & developed high-conversion UI/UX. | React + Vite, TailwindCSS, Node.js, Express, MongoDB, JSX | [Live 🌍](https://www.techtankrvce.com/) |
-| [🌐 ACM RVCE Official Website](https://github.com/CubeStar1/acm-rvce-frontend) | Official ACM chapter site. Built gallery, team, contact pages and reusable UI components as frontend dev. | Next.js 15, TailwindCSS, Node.js, Express, MongoDB, Shadcn UI, TSX | [Live 🌍](https://acm-website-components-avinash.vercel.app/) |
+| [🌐 ACM RVCE Official Website](https://github.com/CubeStar1/acm-rvce-frontend) | Official ACM chapter site. Built gallery, team, contact pages and reusable UI components as frontend dev. | Next.js 15, TailwindCSS, Node.js, Express, MongoDB, Shadcn UI, TSX | [Live 🌍](https://acm-rvce.vercel.app/) |
 | [🌾 Bharath Harvest](https://github.com/SRNI-2005/Bharath-Harvest) | Full-stack agri-platform enabling farmers to trade crops, access market insights via an XGBoost ML model, and chat with a Gemini-powered AI bot. | React + Vite, TailwindCSS, Node.js, Express, Firebase, XGBoost, JSX | ✅ Completed |
-| [🎉 Event Planner](https://github.com/Tharun151425/event_planner) | Sleek event planning site showcasing portfolio, gallery, client reviews, and more—designed with elegant UI/UX. | React + Vite, TailwindCSS | ✅ [Live Site](https://tharunm-event-planner.vercel.app/) |
-
+| [🎉 Event Planner](https://github.com/Tharun151425/event_planner) | [Part of IBM Course] Sleek event planning site showcasing portfolio, gallery, client reviews, and more—designed with elegant UI/UX. | React + Vite, TailwindCSS | ✅ [Live Site](https://tharunm-event-planner.vercel.app/) |
+| [🪴 Paradise Nursery - e-Plant Shopping Website](https://tharun151425.github.io/e-plantShopping/) | [Part of IBM Course] A modern, responsive plant shopping site with sleek UI and cart functionality. Shop indoor & outdoor plants with ease. | React.js, Redux Toolkit, Vite, Tailwind CSS | ✅ [Live Site](https://tharun151425.github.io/e-plantShopping/) |
 
 ---
 
@@ -108,38 +106,28 @@ Welcome! Here's a curated list of my projects categorized by domain. Most are bu
 
 ![Tharun151425's Stats](https://github-readme-stats.vercel.app/api?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![Tharun151425's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharun151425&theme=nightowl&hide_border=true)<br/>
-![Tharun151425's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![Tharun151425's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun151425&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 </br>
 <p align="center" >
   <img src="https://github-trophies.vercel.app/?username=Tharun151425&theme=monokai&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
+---
 
-## 🧠 Machine Learning Skills
+## 🧠 Machine Learning Specialization – DeepLearning.AI & Stanford University
 
-- **Advanced Learning Algorithms**
-  - Artificial Neural Networks
-  - Tree Ensembles
-  - XGBoost
-  - Model Development & Optimization
+A foundational, beginner-friendly 3-course program taught by Andrew Ng that covers supervised, unsupervised, and reinforcement learning, preparing you to build real-world AI applications.
 
-- **Supervised Machine Learning**
-  - Linear Regression
-  - Logistic Regression for Classification
-  - Gradient Descent
-  - Regularization to Avoid Overfitting
+### 🏅 **Full Specialization Verification:** [Verify Here](https://coursera.org/verify/specialization/T03NCEYC9LWK)
 
 ---
 
-## 📜 Certifications
+| # | Course Title | Certificate | Key Learnings | Topics Covered |
+|--|--------------|-------------|---------------|----------------|
+| 1 | **Supervised Machine Learning: Regression and Classification** | [🔗 Verify](https://coursera.org/verify/X1DS2943MVV3) | - Built and trained ML models using NumPy & scikit-learn  <br> - Learned linear & logistic regression, regularization  <br> - Mastered gradient descent and overfitting prevention | - Linear & Logistic Regression <br> - Gradient Descent <br> - Regularization <br> - Model Evaluation |
+| 2 | **Advanced Learning Algorithms** | [🔗 Verify](https://coursera.org/verify/J9S36C9BGWFV) | - Developed neural networks using TensorFlow  <br> - Built Decision Trees, Random Forests, XGBoost  <br> - Tuned models with hyperparameter optimization | - Neural Networks (ANNs) <br> - Tree Ensembles <br> - Model Optimization |
+| 3 | **Unsupervised Learning, Recommenders, Reinforcement Learning** | [🔗 Verify](https://coursera.org/verify/G4RYRTVT9SFG) | - Applied clustering and anomaly detection  <br> - Built recommenders with collaborative & deep learning  <br> - Developed deep Q-learning RL models | - Clustering & Anomaly Detection <br> - Recommender Systems <br> - Deep Q-Learning & RL |
 
-- **Supervised Machine Learning: Regression and Classification** – Andrew Ng
-  - Built and trained ML models using NumPy & scikit-learn
-  - Learned linear regression, logistic regression & regularization
-
-- **Advanced Learning Algorithms** – Andrew Ng
-  - Developed neural networks with TensorFlow for multi-class classification
-  - Explored tree-based models like decision trees, random forests & XGBoost
 
 ---
 
